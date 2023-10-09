@@ -1,0 +1,15 @@
+C:\Users\esson\source\repos\RPG-Games\bin\Debug\net6.0\RPG-Games.exe
+C:\Users\esson\source\repos\RPG-Games\bin\Debug\net6.0\RPG-Games.deps.json
+C:\Users\esson\source\repos\RPG-Games\bin\Debug\net6.0\RPG-Games.runtimeconfig.json
+C:\Users\esson\source\repos\RPG-Games\bin\Debug\net6.0\RPG-Games.dll
+C:\Users\esson\source\repos\RPG-Games\bin\Debug\net6.0\RPG-Games.pdb
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.csproj.AssemblyReference.cache
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.AssemblyInfoInputs.cache
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.AssemblyInfo.cs
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.csproj.CoreCompileInputs.cache
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.dll
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\refint\RPG-Games.dll
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.pdb
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\RPG-Games.genruntimeconfig.cache
+C:\Users\esson\source\repos\RPG-Games\obj\Debug\net6.0\ref\RPG-Games.dll
